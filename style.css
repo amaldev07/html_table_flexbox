@@ -1,0 +1,18 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #333;
+    width: 50%;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #333;
+    text-align: center;
+  }
+  
